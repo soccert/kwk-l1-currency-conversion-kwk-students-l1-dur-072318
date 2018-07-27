@@ -1,1 +1,1 @@
-# Write your cod here
+# Write your code here
